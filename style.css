@@ -80,13 +80,14 @@ main {
   height: 38px;
   font-size: 21px;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   padding: 6px 20px;
 }
 
 .codepen-footer a {
   color: #ee7344;
   text-decoration: none;
+  
 }
 
 #personal-info {
